@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Management Mess]]></title>
+        <description><![CDATA[Management Mess]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jul 2016 01:32:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Enterprise Architecture Fails in Most Organizations]]></title>
+            <description><![CDATA[<article><h1>Why Enterprise Architecture Fails in Most Organizations</h1><p>The greatest issues surrounding enterprise architecture (EA) is that a lot of effort is spent producing artifacts: the reference architectures, application landscapes, standards etc... that in the end, few IT stakeholders utilize nor understand. Consequently, the work is not done to align both IT and the business to the EA outputs. And often, when clear outcomes take a long time to produce, the function itself is ridiculed as useless.</p></article>]]></description>
+            <link>undefinedwhy-enterprise-architecture-fails-in-most-organizations/index.html</link>
+            <guid isPermaLink="false">4a6cfbd1-8b4d-4ffe-9e0e-9cae925f3649</guid>
+            <pubDate>Tue, 26 Jul 2016 01:32:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
